@@ -1,3 +1,6 @@
+Este é um projeto executado como prova no curso de ADS. 
+este programa tem como como objetivo fazer login, executar o CRUD por completo, cadastrando pacientes e nutricionistas.
+
 # AQUI-BRUNO_MOLINA
 
 -- Banco de dados: `projeto`
