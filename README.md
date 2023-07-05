@@ -1,7 +1,10 @@
-Este é um projeto executado como prova no curso de ADS. 
-este programa tem como como objetivo fazer login, executar o CRUD por completo, cadastrando pacientes e nutricionistas.
+Este é um projeto executado como prova no curso de ADS utilizando a linguagem JAVA. 
+O programa tem como como objetivo fazer login, executar o CRUD por completo, cadastrando pacientes e nutricionistas.
 
-# AQUI-BRUNO_MOLINA
+Esta foi minha primeira tentativa de realização de um CRUD, também meu primeiro contato com banco de dados.
+
+
+# Estrutura do banco de dados
 
 -- Banco de dados: `projeto`
 --
