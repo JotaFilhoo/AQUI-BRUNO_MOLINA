@@ -3,6 +3,8 @@ O programa tem como como objetivo fazer login, executar o CRUD por completo, cad
 
 Esta foi minha primeira tentativa de realização de um CRUD, também meu primeiro contato com banco de dados.
 
+Durante a construção do programa encontrei algumas coisas novas pra mim e tentei implementar no programa, como o padrão MVC.
+
 
 # Estrutura do banco de dados
 
